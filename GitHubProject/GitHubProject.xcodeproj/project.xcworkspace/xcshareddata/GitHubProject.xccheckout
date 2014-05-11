@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CC2CCE96-32D1-48ED-A8FB-39215339C710</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GitHubProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>71E5D463-1CF8-43B8-8EFE-29CB56FC5AF5</key>
+		<string>https://github.com/Carovvel/GitHubSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitHubProject/GitHubProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>71E5D463-1CF8-43B8-8EFE-29CB56FC5AF5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Carovvel/GitHubSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>71E5D463-1CF8-43B8-8EFE-29CB56FC5AF5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>71E5D463-1CF8-43B8-8EFE-29CB56FC5AF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitHubSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
